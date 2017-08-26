@@ -1,5 +1,5 @@
 # [oleksiyrudenko.github.io](https://oleksiyrudenko.github.io/)
-Root for Oleksiy's github projects web-presence.
+Root for [Oleksiy's github projects](https://github.com/OleksiyRudenko) web-presence.
 
 * [Google Drive Link Manager](https://oleksiyrudenko.github.io/gd-linkman/)
 
