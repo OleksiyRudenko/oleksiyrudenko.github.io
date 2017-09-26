@@ -6,7 +6,9 @@ Root for [Oleksiy's github projects](https://github.com/OleksiyRudenko) web-pres
 
 ## Why?
 
-At the moment it holds Google domain verification.
+At the moment this site holds Google domain verification.
+Avoid cloning this repo and using `google*.html` as it may make
+google believe your root github.io page belongs to me.
 
 ## I want the same
 
