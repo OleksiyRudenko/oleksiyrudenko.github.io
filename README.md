@@ -1,8 +1,17 @@
 # [oleksiyrudenko.github.io](https://oleksiyrudenko.github.io/)
 Root for [Oleksiy's github projects](https://github.com/OleksiyRudenko) web-presence.
 
-* [Google Drive Link Manager](https://oleksiyrudenko.github.io/gd-linkman/)
-
+* [Google Drive Link Manager](https://oleksiyrudenko.github.io/gd-linkman/) /
+  [repo](https://github.com/OleksiyRudenko/link-manager-for-google-drive-gas) /
+  legacy project [repo](https://github.com/OleksiyRudenko/gd-linkman)
+* [Simple Web Reequests Listener](https://github.com/OleksiyRudenko/php-listener)
+* [Reactive Weather demo](https://oleksiyrudenko.github.io/reactive-weather/) /
+  [repo](https://github.com/OleksiyRudenko/reactive-weather) /
+  legacy project [repo](https://github.com/OleksiyRudenko/weather-webapp)
+* [Plug-and-play improved default styles for web](https://goo.gl/ZF9evf) /
+  [repo](https://github.com/OleksiyRudenko/default-beauty.css)
+* [Memory Pair Game](https://oleksiyrudenko.github.io/memory-pair-game/) /
+  [repo](https://github.com/OleksiyRudenko/memory-pair-game)
 
 ## Why?
 
