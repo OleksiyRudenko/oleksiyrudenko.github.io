@@ -29,3 +29,9 @@ Now you can add verification file from Google.
 
 You can also tune-up
 [redirection](http://www.curtismlarson.com/blog/2015/04/12/github-pages-google-domains/).
+
+## My apps policies
+
+* Merge Google Slides
+  - [Privacy Policy](./merge-google-slides--privacy-policy.md)
+  - [Terms of Service]()
