@@ -1,4 +1,4 @@
-# [oleksiyrudenko.github.io](https://oleksiyrudenko.github.io/)
+# Welcome!
 Root for [Oleksiy's github projects](https://github.com/OleksiyRudenko) web-presence.
 
 * [Google Drive Link Manager](https://oleksiyrudenko.github.io/gd-linkman/) /
