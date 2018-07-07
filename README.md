@@ -1,5 +1,3 @@
-<link rel="manifest" href="/manifest.json">
-
 # Welcome!
 Root for [Oleksiy's github projects](https://github.com/OleksiyRudenko) web-presence.
 
