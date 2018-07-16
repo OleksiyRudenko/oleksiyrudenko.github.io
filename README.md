@@ -34,4 +34,4 @@ You can also tune-up
 
 [General Terms of Service](./general--terms-of-service.md)
 
-* [Merge Google Slides Privacy Policy](./merge-google-slides--privacy-policy.md)
+* [Merge Slides Privacy Policy](./merge-google-slides--privacy-policy.md)
