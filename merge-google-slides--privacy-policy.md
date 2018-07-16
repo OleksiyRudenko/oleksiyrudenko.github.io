@@ -2,7 +2,7 @@
 # Merge Slides
 ## Privacy Policy
 
-_Last modified: July 1, 2018_
+_Last modified: July 16, 2018_
 
 Oleksiy Rudenko (hereinafter referred to as the "author") has built
 the Merge Slides web application
