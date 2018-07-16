@@ -1,11 +1,11 @@
 ![Merge Google Slides logo](https://oleksiyrudenko.github.io/merge-google-slides/ico/favicon-96x96.png)
-# Merge Google Slides
+# Merge Slides
 ## Privacy Policy
 
 _Last modified: July 1, 2018_
 
 Oleksiy Rudenko (hereinafter referred to as the "author") has built
-the Merge Google Slides web application
+the Merge Slides web application
 (hereinafter referred to as the "app").
 This SERVICE is provided by Oleksiy Rudenko at no cost and
 is intended for use as is.
@@ -46,7 +46,7 @@ Some information is collected for the time of immediate service rendering:
  * *your user id, user name, user email* - to enable authenticatied access
    to the files on Google Drive you have access to, and to support sign out
    process
- * *Google Slides content* - to render the previews and final output
+ * *Slides content* - to render the previews and final output
  * *Google Drive file and directory listing* - to offer a location for
    the output result storage, and to check if the output file may overwrite
    any existing file, while the decision is up to the user
