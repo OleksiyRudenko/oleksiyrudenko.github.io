@@ -20,6 +20,8 @@ Root for [Oleksiy's open source projects](https://github.com/OleksiyRudenko) web
 * [General Terms of Service](./general--terms-of-service.md)
 * [Merge Slides Privacy Policy](./merge-google-slides--privacy-policy.md)
 
+Post an issue or inquiry via [GitHUb issues](https://github.com/OleksiyRudenko/oleksiyrudenko.github.io/issues)
+
 ## Google verification
 
 At the moment this site holds Google domain verification.
@@ -36,6 +38,3 @@ Now you can add verification file from Google.
 
 You can also tune-up
 [redirection](http://www.curtismlarson.com/blog/2015/04/12/github-pages-google-domains/).
-
-
-© 2015-2018, Oleksiy Rudenko
