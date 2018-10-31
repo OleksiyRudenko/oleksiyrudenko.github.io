@@ -7,6 +7,9 @@ Root for [Oleksiy's open source projects](https://github.com/OleksiyRudenko) web
   [repo](https://github.com/OleksiyRudenko/link-manager-for-google-drive-gas) /
   legacy project [repo](https://github.com/OleksiyRudenko/gd-linkman)
 * [Simple Web Requests Listener](https://github.com/OleksiyRudenko/php-listener)
+* [A Tiny JS World](https://github.com/OleksiyRudenko/a-tiny-JS-world) /
+  [demo](https://oleksiyrudenko.github.io/a-tiny-JS-world/) -
+  an educational project (JavaScript OOP)
 * [Reactive Weather demo](https://oleksiyrudenko.github.io/reactive-weather/) /
   [repo](https://github.com/OleksiyRudenko/reactive-weather) /
   legacy project [repo](https://github.com/OleksiyRudenko/weather-webapp)
