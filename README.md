@@ -17,6 +17,11 @@ Root for [Oleksiy's open source projects](https://github.com/OleksiyRudenko) web
   [repo](https://github.com/OleksiyRudenko/default-beauty.css)
 * [Memory Pair Game](https://oleksiyrudenko.github.io/memory-pair-game/) /
   [repo](https://github.com/OleksiyRudenko/memory-pair-game)
+  
+If you like any of the projects above or would support any enhancements thereto,
+please, consider [consider buying me a coffee](https://www.buymeacoffee.com/YA8TJjF).
+Thank you!
+
 
 ## My apps and services policies
 
